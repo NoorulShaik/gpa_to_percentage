@@ -80,14 +80,14 @@ const styles = {
         backgroundColor: '#fff',
         textAlign: 'center'
     },
-    heading: { color: '#333', marginBottom: '20px' },
+    heading: { color: '#1852b8', marginBottom: '20px' },
     form: { display: 'flex', flexDirection: 'column', gap: '15px' },
     inputGroup: { display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '5px' },
     label: { fontSize: '14px', color: '#555', fontWeight: 'bold' },
     input: { width: '100%', padding: '10px', border: '1px solid #ccc', borderRadius: '5px', boxSizing: 'border-box' },
     buttonGroup: { display: 'flex', gap: '10px' },
-    calcButton: { flex: 2, padding: '10px', backgroundColor: '#007BFF', color: 'white', border: 'none', borderRadius: '5px', cursor: 'pointer', fontWeight: 'bold' },
-    resetButton: { flex: 1, padding: '10px', backgroundColor: '#6c757d', color: 'white', border: 'none', borderRadius: '5px', cursor: 'pointer' },
+    calcButton: { flex: 2, padding: '10px', backgroundColor: '#58ba20', color: 'white', border: 'none', borderRadius: '5px', cursor: 'pointer', fontWeight: 'bold' },
+    resetButton: { flex: 1, padding: '10px', backgroundColor: '#1a1a1a', color: 'white', border: 'none', borderRadius: '5px', cursor: 'pointer' },
     resultBox: { marginTop: '20px', padding: '15px', backgroundColor: '#e9f5ff', borderRadius: '5px', border: '1px solid #b8daff' },
     resultText: { fontSize: '24px', color: '#004085', margin: '5px 0 0 0' }
 };
