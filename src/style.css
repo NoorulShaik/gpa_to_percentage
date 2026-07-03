@@ -226,7 +226,10 @@ code {
   .logo {
     height: 18px;
   }
-
+#foot{
+  position:fixed;
+  text-align: center;
+}
   a {
     color: var(--text-h);
     font-size: 16px;
